@@ -19,3 +19,5 @@ const handle_file_preview = (e) => {
 }
 
 file_input.addEventListener('change', handle_file_preview);
+
+// This needs to clear on upload - to check with live source
